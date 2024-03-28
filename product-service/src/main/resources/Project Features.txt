@@ -1,0 +1,18 @@
+Creating Multiple Micro Services, and allowing communication Between them
+Using Java 8 Features such as lambdas, streams and method reference.
+Using a layered Architecture with controller service repository model and data models to provide abstraction
+Added Integration test - Used TestingContainer -> Mongodbcontainer and MockMvc
+Using mongodb for creating db
+
+3 Microservices - Order Service - to Place Order
+                    Inventory Service - to check if product is in stock or not based on skuCode
+                    Product Service - to add products and fetch all products
+
+
+
+
+
+
+
+Problems so far
+1. Setting up mongoDb
