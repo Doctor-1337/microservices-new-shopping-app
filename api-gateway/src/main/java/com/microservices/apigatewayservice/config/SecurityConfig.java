@@ -1,0 +1,2 @@
+package com.microservices.apigatewayservice.config;public class SecurityConfig {
+}
